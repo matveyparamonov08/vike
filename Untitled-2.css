@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+	
+}
+ body {
+    font: 14px Arial, Helvetica, sans-serif; /* Рубленый шрифт текста */
+    margin: 0; /* Отступы на странице */
+	background-image: url(blue-grainy-background-14472835282D5.jpg)
+   }
+#container {
+background-size:cover;
+}
+h1 {
+    margin-top: 0; /* Убираем отступ сверху */
+	font-size: 36px; /* Размер шрифта заголовка шапки */
+    margin: 0; /* Убираем отступы */
+    color: #FF0000; /* Цвет текста заголовка шапки */
+	text-align: center
+   }
+   #header {
+    background: #0080c0; /* Цвет фона шапки */
+    padding: 10px; /* Поля вокруг текста */
+   }
+   #menu {
+    float: left; /* Обтекание справа */
+    border: 1px solid #333; /* Рамка левого меню */
+    width: 20%; /* Ширина левой колонки */
+    padding: 5px; /* Поля внутри блока */
+    margin: 10px 10px 20px 5px; /* Значения отступа от блока */
+   }
+   #content {
+    margin: 10px 5px 20px 25%; /* Значения отступа от левого блока */
+    padding: 5px; /* Поля внутри блока */
+    border: 1px solid #333; /* Рамка контента */
+   }
+   #footer {
+    background: #333; /* Цвет фона подвал (футера) */
+    padding: 5px; /* Поля внутри блока */
+    color: #fff; /* Цвет текста футера */
+    clear: left; /* Отменяем действие float */
+   }
+p {
+    margin-top: 0; /* Убираем отступ сверху */
+	font-size: 36px; /* Размер шрифта заголовка шапки */
+    margin: 0; /* Убираем отступы */
+    color: #0000000;
+	text-align: center
+   }
+   #header {
+    background: #0080c0; /* Цвет фона шапки */
+    padding: 10px; /* Поля вокруг текста */
+   }
+   #menu {
+    float: left; /* Обтекание справа */
+    border: 1px solid #333; /* Рамка левого меню */
+    width: 20%; /* Ширина левой колонки */
+    padding: 5px; /* Поля внутри блока */
+    margin: 10px 10px 20px 5px; /* Значения отступа от блока */
+   }
+   #content {
+    margin: 10px 5px 20px 25%; /* Значения отступа от левого блока */
+    padding: 5px; /* Поля внутри блока */
+    border: 1px solid #333; /* Рамка контента */
+   }
+   #footer {
+    background: #333; /* Цвет фона подвал (футера) */
+    padding: 5px; /* Поля внутри блока */
+    color: #fff; /* Цвет текста футера */
+    clear: left; /* Отменяем действие float */
+   }
+h2{
+    margin-top: 0; /* Убираем отступ сверху */
+	font-size: 36px; /* Размер шрифта заголовка шапки */
+    margin: 0; /* Убираем отступы */
+    color:     #000000;
+	text-align: center
+   }
+   #header {
+    background: #0080c0; /* Цвет фона шапки */
+    padding: 10px; /* Поля вокруг текста */
+   }
+   #menu {
+    float: left; /* Обтекание справа */
+    border: 1px solid #333; /* Рамка левого меню */
+    width: 20%; /* Ширина левой колонки */
+    padding: 5px; /* Поля внутри блока */
+    margin: 10px 10px 20px 5px; /* Значения отступа от блока */
+   }
+   #content {
+    margin: 10px 5px 20px 25%; /* Значения отступа от левого блока */
+    padding: 5px; /* Поля внутри блока */
+    border: 1px solid #333; /* Рамка контента */
+   }
+   #footer {
+    background: #333; /* Цвет фона подвал (футера) */
+    padding: 5px; /* Поля внутри блока */
+    color: #fff; /* Цвет текста футера */
+    clear: left; /* Отменяем действие float */
+   }
+h3{
+    margin-top: 0; /* Убираем отступ сверху */
+	font-size: 36px; /* Размер шрифта заголовка шапки */
+    margin: 0; /* Убираем отступы */
+    color: #000000; /* Цвет текста заголовка шапки */
+	text-align: center
+   }
+   #header {
+    background: #0080c0; /* Цвет фона шапки */
+    padding: 10px; /* Поля вокруг текста */
+   }
+   #menu {
+    float: left; /* Обтекание справа */
+    border: 1px solid #333; /* Рамка левого меню */
+    width: 20%; /* Ширина левой колонки */
+    padding: 5px; /* Поля внутри блока */
+    margin: 10px 10px 20px 5px; /* Значения отступа от блока */
+   }
+   #content {
+    margin: 10px 5px 20px 25%; /* Значения отступа от левого блока */
+    padding: 5px; /* Поля внутри блока */
+    border: 1px solid #333; /* Рамка контента */
+   }
+   #footer {
+    background: #333; /* Цвет фона подвал (футера) */
+    padding: 5px; /* Поля внутри блока */
+    color: #fff; /* Цвет текста футера */
+    clear: left; /* Отменяем действие float */
+   }
